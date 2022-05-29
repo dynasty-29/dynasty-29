@@ -3,6 +3,7 @@
 
 "nothing is impossible only some things are difficult" - Ibrahim Ulga
 
+
 ### My work involves:
 
 enabing  data scientists to develop cool features
@@ -16,17 +17,25 @@ performance evaluation, including the assessment of metrics, comparative analysi
 ### My hobbies include but not limited to
 
 Travelling
+
 Learning new things (nerd alert)
+
 Chess
+
 Basketball
+
 designing clothes 👗
 
 #### I'm currently thinking about 
+
 How companies develop & run world-class ML systems (Full Stack Deep Learning)
+
 How to develop robust production level pipelines using GCP, AWS, Docker, Kubernetes, Kubeflow, MLFlow
+
 How to keep growing as an effective Scientist in Python, R
 
 ###### How to reach me 
+
 LinkedIn: https://www.linkedin.com/in/margaret-gathoni-b85555106/
 
 
