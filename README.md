@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @dynasty-29
-- 👀 I’m interested in Anything Data science with ML/AI specialization
-- 🌱 I’m currently learning .Ml and AI intergration
-- 💞️ I’m looking to collaborate on interesting projects and experiences
-- 📫 How to reach me 
-inkedin.com/in/margaret-gathoni-b85555106/
-<!---
-dynasty-29/dynasty-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi there, my name is Maggie aka Dynasty & I'm a ML/DL/AI/M&E specialist
+
+
+"nothing is impossible only some things are difficult" - Ibrahim Ulga
+
+### My work involves:
+
+enabing  data scientists to develop cool features
+
+empower customers to understand and utilize their data
+
+support the ML Platform team in efficient & scalable deployment, integration, monitoring, & testing.
+
+performance evaluation, including the assessment of metrics, comparative analysis, and future projections based off of improvement.
+
+### My hobbies include but not limited to
+
+Travelling
+Learning new things (nerd alert)
+Chess
+Basketball
+designing clothes 👗
+
+#### I'm currently thinking about 
+How companies develop & run world-class ML systems (Full Stack Deep Learning)
+How to develop robust production level pipelines using GCP, AWS, Docker, Kubernetes, Kubeflow, MLFlow
+How to keep growing as an effective Scientist in Python, R
+
+###### How to reach me 
+LinkedIn: https://www.linkedin.com/in/margaret-gathoni-b85555106/
+
+
