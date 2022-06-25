@@ -24,7 +24,7 @@ Chess
 
 Basketball
 
-designing clothes 👗
+
 
 #### I'm currently thinking about 
 
