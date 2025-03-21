@@ -12,12 +12,12 @@
   </a>
 </p>
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/dynasty-29">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dynasty-29&theme=github_dark" alt="GitHub Profile Summary" />
   </a>
 </p>
-
+<!--
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/dynasty-29">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dynasty-29&theme=github_dark" alt="GitHub Stats" />
@@ -32,7 +32,7 @@
 
 
 
-<!-- ### 🛠️ Tech Stack
+ ### 🛠️ Tech Stack
 
 #### 🔹 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
