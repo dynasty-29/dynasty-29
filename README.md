@@ -145,7 +145,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=dynasty-29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-⭐ **"Turning ideas into reality with code, data & creativity!"** ⭐
-
+## ⭐ Random Quote of the day ⭐
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
