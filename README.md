@@ -17,7 +17,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dynasty-29&theme=github_dark" alt="GitHub Profile Summary" />
   </a>
 </p>
-<!--
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/dynasty-29">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dynasty-29&theme=github_dark" alt="GitHub Stats" />
@@ -89,7 +89,7 @@
 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)  
 🐦 Twitter: [@SonniCodes](https://twitter.com/sonnicodes)  
 🎮 Discord: Sonnie#XXXX  
--->
+
 ---
 
 ⭐ **"Turning ideas into reality with code, data & creativity!"** ⭐
