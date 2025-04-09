@@ -33,6 +33,21 @@
 
 
  ### 🛠️ Tech Stack
+<div>
+  <img height="20" style="margin-right: 10px;" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+  <img height="20" style="margin-right: 10px;" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+  <img height="20" style="margin-right: 10px;" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
+  <img height="20" style="margin-right: 10px;" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  <img height="20" style="margin-right: 10px;" alt="Django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png">
+  <img height="20" style="margin-right: 10px;" alt="Flask" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png">
+  <img height="20" style="margin-right: 10px;" alt="Go" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">
+  <img height="20" style="margin-right: 10px;" alt="C#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png">
+  <img height="20" style="margin-right: 10px;" alt="Ruby" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png">
+  <img height="20" style="margin-right: 10px;" alt="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png">
+  <img height="20" style="margin-right: 10px;" alt="R" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png">
+  <img height="20" style="margin-right: 10px;" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png">
+</div>
+  
 
 #### 🔹 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
