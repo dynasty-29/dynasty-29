@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margaret-gathoni/)
 [![Medium](https://img.shields.io/badge/Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SonnieCodes)
 [![YouTube](https://img.shields.io/badge/Watch%20My%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SonnieCodes)
+[![Instagram](https://img.shields.io/badge/Follow%20Me%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SonnieCodes/)
 
 <br/>
 
